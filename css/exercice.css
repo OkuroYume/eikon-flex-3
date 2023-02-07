@@ -93,4 +93,11 @@ order: 1;
   align-self: flex-start;
 }
 /* 8. exercice-margin-auto */
+.exercice-margin-auto .container {
+  display: flex;
+}
+
+.exercice-margin-auto .element-red {
+  margin: auto;
+}
 
